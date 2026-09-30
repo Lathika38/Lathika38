@@ -1,3 +1,65 @@
+<div align="center">
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey!+I'm+YOUR+NAME+👋;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
+<!-- Visitor Counter -->
+![Visitors](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
+
+---
+
+## 🚀 About Me
+
+🔭 Working on **Amazing Projects**  
+🌱 Learning **New Technologies**  
+💬 Ask me about **anything**  
+⚡ Fun fact: **I love coding!**
+
+---
+
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🏆 Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1&column=7)
+
+---
+
+## 📈 Activity
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true)
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 💬 Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 ```text
 lathika@workstation
 -----------------------------------------------------------------------------------------------------------------------
