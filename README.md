@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey!+I'm+YOUR+NAME+👋;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey!+I'm+LATHIKA+👋;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
 ![Visitors](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
