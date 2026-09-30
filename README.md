@@ -25,34 +25,6 @@
   <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1&column=7)
-
----
-
-## 📈 Activity
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true)
-
----
-
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
 
 ## 💬 Quote
 
